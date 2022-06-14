@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{4D1921DB-0A19-B219-1D17-1FDD3362036E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ex02/Screepts/Ball.cs">
+    <Files>
+      <File FileName="Assets/ex02/Screepts/Ball.cs" Line="14" Column="56" />
+      <File FileName="Assets/ex02/Screepts/Club.cs" />
+      <File FileName="Assets/ex00/Screepts/Balloon.cs" />
+      <File FileName="Assets/ex01/Screepts/Cube.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="d00" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ex00" expanded="True">
+                <Node name="Screepts" expanded="True" />
+              </Node>
+              <Node name="ex01" expanded="True">
+                <Node name="Screepts" expanded="True" />
+              </Node>
+              <Node name="ex02" expanded="True">
+                <Node name="Screepts" expanded="True">
+                  <Node name="Ball.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="274a344a-cf47-415c-b93b-b85a4fcf77f1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
