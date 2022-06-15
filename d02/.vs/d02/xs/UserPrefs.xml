@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{27C49CC6-8F61-884B-53E3-82B84F26B1B4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player_00.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player_00.cs" Line="45" Column="45" />
+      <File FileName="Assets/Scripts/SoundManager.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="d02" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Editor" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="Player_00.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="bc7e344b-a8d4-47c8-9744-fccc05d9d3a6" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bc7e344b-a8d4-47c8-9744-fccc05d9d3a6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
